@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /*!
  * QUnit 2.0.2-pre
  * https://qunitjs.com/

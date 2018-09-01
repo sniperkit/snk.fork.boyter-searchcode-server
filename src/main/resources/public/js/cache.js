@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 MIT LICENSE
 Copyright (c) 2007 Monsur Hossain (http://monsur.hossai.in)
 

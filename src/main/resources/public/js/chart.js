@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /*!
  * Chart.js
  * http://chartjs.org/

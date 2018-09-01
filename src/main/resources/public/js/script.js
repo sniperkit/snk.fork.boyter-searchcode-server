@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
  * Copyright (c) 2016 Boyter Online Services
  *
  * Use of this software is governed by the Fair Source License included
